@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Puntos
+comment1.params=
+comment1.target=void\ act()
+comment2.params=puntos
+comment2.target=void\ incrementarPuntaje(int)
+comment3.params=puntos
+comment3.target=void\ decrementarPuntaje(int)
+comment4.params=
+comment4.target=int\ obtenerPuntaje()
+numComments=5
